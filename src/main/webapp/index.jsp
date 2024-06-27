@@ -65,7 +65,7 @@
             <input type="text" id="class" name="class" required>
         </div>
         <div class="form-group">
-            <label for="college">College:</label>
+            <label for="college">College: name</label>
             <input type="text" id="college" name="college" required>
         </div>
         <div class="form-group">
