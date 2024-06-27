@@ -69,7 +69,7 @@
             <input type="text" id="college" name="college" required>
         </div>
         <div class="form-group">
-            <label for="course">Course:</label>
+            <label for="course">Course: section/label>
             <input type="text" id="course" name="course" required>
         </div>
         <div class="form-group">
